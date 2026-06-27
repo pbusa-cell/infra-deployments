@@ -15,6 +15,6 @@ images:
     newTag: efc5e023bba54c44c4c56c1d79a33dd52a8b0e39
 
   - name: quay.io/konflux-ci/oauth2-proxy
-    newTag: 7857e1959daed4df06263532c42d1da41acc00d8
+    newTag: c08dbdb8d9b84c9f673a7e468b6ec7eb9dceeb8c
 
 namespace: konflux-ui
